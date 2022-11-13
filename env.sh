@@ -5,12 +5,12 @@ eval `ssh-agent -s` && ssh-add -k
 
 ###################### GIT PARAMETERS #####################################
 export GIT_PARENT_DIR=~
-export GIT_REPO_NAME=#your-repo
-export GIT_BRANCH_NAME=#your-branch
-export GIT_USER=#your-gituser
-export GIT_EMAIL=#your-email
-export GITHUB_ACCESS_TOKEN=#access-token from github developer settings
-export GIT_USER_UPSTREAM=#your-user
+export GIT_REPO_NAME=ml-cpcs-law-db
+export GIT_BRANCH_NAME=main
+export GIT_USER=ArinW
+export GIT_EMAIL=arinwyl@bu.edu
+export GITHUB_ACCESS_TOKEN=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
+export GIT_USER_UPSTREAM=ArinW
 
 
 ############################################################################
